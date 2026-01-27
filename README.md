@@ -59,7 +59,7 @@ This project provides a practical example of **prompt engineering, multimodal AI
 ---
 
 ## Folder Structure
-
+```
 ai-powered-event-promotion/
 │
 ├── README.md
@@ -79,7 +79,7 @@ ai-powered-event-promotion/
 │       └── closing_scene.png
 │
 └── references.md
-
+```
 
 ---
 
