@@ -45,7 +45,7 @@ This project provides a practical example of **prompt engineering, multimodal AI
 - Background audio: Palmiers
 - Script reference: `prompts/video_script.txt`
 - Screenshots included: Intro scene, Invitation card scene, Closing scene
-- Full video hosted on Google Drive: [Watch Video](https://drive.google.com/your-shareable-link)
+- Full video hosted on Google Drive: [Watch Video](https://drive.google.com/file/d/1KUGjKNpLKxYv5Mt3dpiEk67bpOnDakob/view?usp=sharing)
 
 ---
 
