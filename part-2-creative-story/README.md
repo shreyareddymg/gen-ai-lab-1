@@ -1,6 +1,6 @@
-# Part 2 – Daily Routine Motivation Story
+# Part 2 – Creative Story
 
-This part of **Generative AI Lab–1** focuses on creating a **short motivational video** using Generative AI tools.  
+This part of **Generative AI Lab–1** focuses on creating a **short creative story video** using Generative AI tools.  
 The video highlights the importance of **small, consistent efforts in daily life**.
 
 ---
@@ -52,3 +52,4 @@ The story emphasizes:
 - Understood short-form AI storytelling
 - Learned prompt-based narration control
 - Gained experience in AI-assisted video generation
+
