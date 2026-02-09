@@ -26,12 +26,12 @@ This project provides a practical example of **prompt engineering, multimodal AI
 2. **Event Poster**
    - Generated using DALL-E
    - Prompt stored in `prompts/poster_prompt.txt`
-   - Output stored in `outputs/poster.png`
+   - Output stored in `outputs/poster.png` ![Poster](outputs/poster.png)
 
 3. **Promotional Video**
    - Generated using Fliki.ai
    - Script stored in `prompts/video_script.txt`
-   - Screenshots saved in `outputs/video_frames/`
+   - Screenshots saved in `outputs/video_frames/` ![Intro Scene](outputs/video_frames/intro_scene.png)
    - Video configuration detailed below
 
 ---
