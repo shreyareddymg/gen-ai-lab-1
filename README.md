@@ -74,7 +74,7 @@ An AI-generated **short motivational video** based on consistency and personal g
 - AI voice narration and background music
 - Vertical short-form video suitable for social media
 
-Folder: `part-2-daily-routine-story/`  
+Folder: `part-2-creative-story/`  
 Detailed explanation available in its README.
 
 ---
