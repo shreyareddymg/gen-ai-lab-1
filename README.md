@@ -1,97 +1,112 @@
-# AI-Powered Event Promotion Project
+# Generative AI Lab – 1
 
-This project demonstrates the use of **Generative AI tools** to create a complete event promotion workflow for a university cultural celebration. The workflow includes **professional email generation, poster design, and AI-generated promotional video**.
-
----
-
-## Project Overview
-
-The aim of this project is to showcase a cultural celebration, **Kannada Rajyotsava: Sambrama**, using modern AI tools:
-
-- **Professional email** to announce the event
-- **AI-generated poster** for promotion
-- **AI-generated vertical video** highlighting the event details
-
-This project provides a practical example of **prompt engineering, multimodal AI workflows, and content creation for real-world applications**.
+This repository contains **Generative AI Lab–1 submissions**, demonstrating practical usage of **AI tools for content creation, prompt engineering, and multimedia generation**.  
+The lab is divided into **two parts**, each focusing on a different real-world application of Generative AI.
 
 ---
 
-## Workflow
+## Lab Objectives
 
-1. **Event Announcement Email**
-   - Generated using ChatGPT
-   - Prompt stored in `prompts/email_prompt.txt`
-   - Output stored in `outputs/event_email.txt`
-
-2. **Event Poster**
-   - Generated using DALL-E
-   - Prompt stored in `prompts/poster_prompt.txt`
-   - Output stored in `outputs/poster.png`
-
-3. **Promotional Video**
-   - Generated using Fliki.ai
-   - Script stored in `prompts/video_script.txt`
-   - Screenshots saved in `outputs/video_frames/`
-   - Video configuration detailed below
+- Understand **prompt engineering** for text, image, and video generation  
+- Apply **Generative AI tools** to real-world use cases  
+- Organize AI workflows in a **structured, reproducible manner**  
+- Document AI-generated outputs clearly for academic evaluation  
 
 ---
 
-## Video Configuration
+## Lab Structure
 
-- Tool: Fliki.ai
-- Mode: Realistic
-- Language, Dialect, Gender: English, India, Female (Voice: Ananya)
-- Aspect Ratio: 9:16 (vertical format)
-- Background audio: Palmiers
-- Script reference: `prompts/video_script.txt`
-- Screenshots included: Intro scene, Invitation card scene, Closing scene
-- Full video hosted on Google Drive: [Watch Video](https://drive.google.com/file/d/1KUGjKNpLKxYv5Mt3dpiEk67bpOnDakob/view?usp=sharing)
-
----
-
-## Tools Used
-
-- **ChatGPT** – Professional email generation
-- **DALL-E** – Poster image generation
-- **Fliki.ai** – Text-to-video generation
-- Microsoft Word – Document compilation
-
----
-
-## Folder Structure
 ```
-ai-powered-event-promotion/
+gen-ai-lab-1/
 │
 ├── README.md
-├── LICENSE
 │
-├── prompts/
-│   ├── email_prompt.txt
-│   ├── poster_prompt.txt
-│   └── video_script.txt
+├── part-1-event-promotion/
+│ ├── README.md
+│ ├── LICENSE
+│ ├── prompts/
+│ │ ├── email_prompt.txt
+│ │ ├── poster_prompt.txt
+│ │ └── video_script.txt
+│ ├── outputs/
+│ │ ├── event_email.txt
+│ │ ├── poster.png
+│ │ └── video_frames/
+│ │ ├── intro_scene.png
+│ │ ├── invitation_scene.png
+│ │ └── closing_scene.png
+│ └── references.md
 │
-├── outputs/
-│   ├── event_email.txt
-│   ├── poster.png
-│   └── video_frames/
-│       ├── intro_scene.png
-│       ├── invitation_scene.png
-│       └── closing_scene.png
+├── part-2-daily-routine-story/
+│ ├── README.md
+│ ├── prompts/
+│ │ └── story_script.txt
+│ ├── outputs/
+│ │ └── story.mp4
+│ └── references.md
 │
-└── references.md
+└── LICENSE
 ```
 
 ---
 
-## Usage
+## Lab Activities Overview
 
-1. Open `README.md` for workflow and project overview.  
-2. Check the `prompts/` folder for all AI prompts used.  
-3. View `outputs/` for generated email, poster, and video screenshots.  
-4. Access the full promotional video via Google Drive link in the **Video Configuration** section.  
+### 🔹 Part 1: AI-Powered Event Promotion
+A complete **AI-driven promotional workflow** for a university cultural event.
+
+**Includes:**
+- Professional event announcement email (ChatGPT)
+- AI-generated event poster (DALL·E)
+- AI-generated promotional video (Fliki.ai)
+
+📂 Folder: `part-1-event-promotion/`  
+📄 Detailed explanation available in its README.
+
+---
+
+### 🔹 Part 2: Daily Routine Motivation Story
+An AI-generated **short motivational video** based on consistency and personal growth.
+
+**Includes:**
+- Structured story script using prompt engineering
+- AI voice narration and background music
+- Vertical short-form video suitable for social media
+
+📂 Folder: `part-2-daily-routine-story/`  
+📄 Detailed explanation available in its README.
+
+---
+
+## Tools & Technologies Used
+
+- **ChatGPT** – Script and email generation  
+- **DALL·E** – Poster image generation  
+- **Fliki.ai** – Text-to-video and voice generation  
+- **Markdown** – Documentation  
+- **Git & GitHub** – Version control and project hosting  
+
+---
+
+## How to Use This Repository
+
+1. Start with this `README.md` for overall understanding  
+2. Navigate to each part folder for:
+   - Prompts used
+   - Generated outputs
+   - Tool configurations
+3. Refer to `references.md` files for media links and screenshots  
+
+---
+
+## Academic Note
+
+This repository is created **strictly for academic and educational purposes** as part of **Generative AI Lab–1 coursework**.  
+All AI-generated content follows ethical and non-commercial usage guidelines.
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for details.
