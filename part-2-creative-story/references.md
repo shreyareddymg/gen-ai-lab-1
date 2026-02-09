@@ -4,7 +4,7 @@
 - Tool: Fliki.ai
 - Voice: Ananya (English – India)
 - Background Music: Palm Strings
-- Aspect Ratio: 9:16 (Vertical)
+- Aspect Ratio: 16:9 (Horizontal)
 
 ## Video Link
 Full video hosted on Google Drive:  
