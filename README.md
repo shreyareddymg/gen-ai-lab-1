@@ -61,8 +61,8 @@ A complete **AI-driven promotional workflow** for a university cultural event.
 - AI-generated event poster (DALL·E)
 - AI-generated promotional video (Fliki.ai)
 
-📂 Folder: `part-1-event-promotion/`  
-📄 Detailed explanation available in its README.
+Folder: `part-1-event-promotion/`  
+Detailed explanation available in its README.
 
 ---
 
@@ -74,8 +74,8 @@ An AI-generated **short motivational video** based on consistency and personal g
 - AI voice narration and background music
 - Vertical short-form video suitable for social media
 
-📂 Folder: `part-2-daily-routine-story/`  
-📄 Detailed explanation available in its README.
+Folder: `part-2-daily-routine-story/`  
+Detailed explanation available in its README.
 
 ---
 
