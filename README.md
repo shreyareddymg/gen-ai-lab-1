@@ -24,7 +24,6 @@ gen-ai-lab-1/
 │
 ├── part-1-event-promotion/
 │   ├── README.md
-│   ├── LICENSE
 │   ├── prompts/
 │   │   ├── email_prompt.txt
 │   │   ├── poster_prompt.txt
