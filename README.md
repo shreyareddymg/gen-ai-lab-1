@@ -1,11 +1,11 @@
-# Generative AI Lab – 1
+# Foundational Interaction & Multimodal Generative AI
 
-This repository contains **Generative AI Lab–1 submissions**, demonstrating practical usage of **AI tools for content creation, prompt engineering, and multimedia generation**.  
-The lab is divided into **two parts**, each focusing on a different real-world application of Generative AI.
+This repository contains **Foundational Interaction & Multimodal Generative AI**, demonstrating practical usage of **AI tools for content creation, prompt engineering, and multimedia generation**.  
+This is divided into **two parts**, each focusing on a different real-world application of Generative AI.
 
 ---
 
-## Lab Objectives
+## Objectives
 
 - Understand **prompt engineering** for text, image, and video generation  
 - Apply **Generative AI tools** to real-world use cases  
@@ -17,7 +17,7 @@ The lab is divided into **two parts**, each focusing on a different real-world a
 ## Lab Structure
 
 ```
-gen-ai-lab-1/
+Foundational-Interaction-Multimodal-Generative-AI/
 │
 ├── README.md
 ├── LICENSE
@@ -51,7 +51,7 @@ gen-ai-lab-1/
 
 ---
 
-## Lab Activities Overview
+## Activities Overview
 
 ### 🔹 Part 1: AI-Powered Event Promotion
 A complete **AI-driven promotional workflow** for a university cultural event.
@@ -102,7 +102,7 @@ Detailed explanation available in its README.
 
 ## Academic Note
 
-This repository is created **strictly for academic and educational purposes** as part of **Generative AI Lab–1 coursework**.  
+This repository is created **strictly for academic and educational purposes** as part of **Generative AI coursework**.  
 All AI-generated content follows ethical and non-commercial usage guidelines.
 
 ---
