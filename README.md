@@ -20,32 +20,34 @@ The lab is divided into **two parts**, each focusing on a different real-world a
 gen-ai-lab-1/
 │
 ├── README.md
+├── LICENSE
 │
 ├── part-1-event-promotion/
-│ ├── README.md
-│ ├── LICENSE
-│ ├── prompts/
-│ │ ├── email_prompt.txt
-│ │ ├── poster_prompt.txt
-│ │ └── video_script.txt
-│ ├── outputs/
-│ │ ├── event_email.txt
-│ │ ├── poster.png
-│ │ └── video_frames/
-│ │ ├── intro_scene.png
-│ │ ├── invitation_scene.png
-│ │ └── closing_scene.png
-│ └── references.md
+│   ├── README.md
+│   ├── LICENSE
+│   ├── prompts/
+│   │   ├── email_prompt.txt
+│   │   ├── poster_prompt.txt
+│   │   └── video_script.txt
+│   ├── outputs/
+│   │   ├── event_email.txt
+│   │   ├── poster.png
+│   │   └── video_frames/
+│   │       ├── intro_scene.png
+│   │       ├── invitation_scene.png
+│   │       └── closing_scene.png
+│   └── references.md
 │
-├── part-2-daily-routine-story/
-│ ├── README.md
-│ ├── prompts/
-│ │ └── story_script.txt
-│ ├── outputs/
-│ │ └── story.mp4
-│ └── references.md
-│
-└── LICENSE
+├── part-2-creative-story/
+│   ├── README.md
+│   ├── prompts/
+│   │   └── story_script.txt
+│   ├── outputs/
+│   │   ├── intro_scene.png
+│   │   ├── intermediate_scene-1.png
+│   │   ├── intermediate_scene-2.png
+│   │   └── closing_scene.png
+│   └── references.md
 ```
 
 ---
